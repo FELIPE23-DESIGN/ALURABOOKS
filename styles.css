@@ -1,4 +1,12 @@
 body {
     color: aquamarine;
     background: rgb(7, 57, 104);
+    margin: 0px;
+}
+
+header{
+    border-bottom: solid 2px white;
+    padding: 20px;
+    font-size: 32px;
+
 }
