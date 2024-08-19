@@ -4,9 +4,24 @@ body {
     margin: 0px;
 }
 
-header{
+header {
     border-bottom: solid 2px white;
     padding: 20px;
     font-size: 32px;
 
 }
+
+section {
+    background: #05053d;
+    padding-bottom: 40px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.chamada-texto {
+    margin-right: 5%;
+
+}
+
